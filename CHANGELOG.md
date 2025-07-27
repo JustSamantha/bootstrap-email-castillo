@@ -1,5 +1,9 @@
 # Change Log
 
+- 07/26/2025
+  - 5:30pm, Created README and CHANGELOG files
+  - Initialize git project
+
 ## Example:
 
 - 04/11/2022
