@@ -3,6 +3,8 @@
 - 07/26/2025
   - 5:30pm, Created README and CHANGELOG files
   - Initialize git project
+- 07/28/2025
+  - 1:00pm, Worked on the wireframes
 
 ## Example:
 
