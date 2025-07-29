@@ -9,6 +9,7 @@
   - 10:30am, Worked on 1 more design of wireframes
   - Updated designs to make sense on the flow
   - Created a flow diagram for the wireframes
+  - Created basic files structure
 
 ## Example:
 
