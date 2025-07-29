@@ -5,6 +5,10 @@
   - Initialize git project
 - 07/28/2025
   - 1:00pm, Worked on the wireframes
+- 07/29/2025
+  - 10:30am, Worked on 1 more design of wireframes
+  - Updated designs to make sense on the flow
+  - Created a flow diagram for the wireframes
 
 ## Example:
 
