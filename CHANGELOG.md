@@ -11,6 +11,7 @@
   - Created a flow diagram for the wireframes
   - Created basic files structure
   - Added boostrap to the HTML
+  - Started the HTML and CSS for the first part of the page
 
 ## Example:
 

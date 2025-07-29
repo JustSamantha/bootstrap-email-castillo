@@ -1,0 +1,31 @@
+.row {
+  border: 1px solid black;
+  /* height: 300px; */
+}
+
+/* .main-toolbox-container {
+  height: 40px;
+} */
+
+.main-toolbox {
+  /* padding: 10px; */
+  width: 100%;
+  height: 50px;
+}
+
+.main-toolbox label {
+  background-color: lightgray;
+  height: 35px;
+}
+
+.main-toolbox input {
+  border: 0px;
+  background-color: lightgray;
+  height: 35px;
+  width: 80%;
+  background-image: url('assets/search.svg');
+  background-position: left center;
+  background-size: 30px;
+  background-repeat: no-repeat;
+  padding: 5px;
+}
