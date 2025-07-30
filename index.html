@@ -14,31 +14,28 @@
   </head>
   <body>
     <div class="container-fluid">
-      <div class="row main-toolbox-container">
-        <div class="column-6 main-toolbox text-center">
-          <img src="assets/compose-email.svg" alt="Compose Email" width="30" height="30" />
-          <img src="assets/trash.svg" alt="Delete Email" width="30" height="30" />
-          <img src="assets/archive.svg" alt="Archive Email" width="30" height="30" />
-          <label for="search-bar"></label>
-          <input type="text" name="search-bar" />
+      <div class="row align-items-center main-toolbox-row">
+        <div class="col main-toolbox-col">
+          <a href="#"><img src="assets/compose-email.svg" alt="Compose Email" width="30" height="30" /></a>
+          <a href="#"><img src="assets/trash.svg" alt="Delete Email" width="30" height="30" /></a>
+          <a href="#"><img src="assets/archive.svg" alt="Archive Email" width="30" height="30" /></a>
+        </div> 
+        <div class="col search-bar-col">
+          <input type="text" name="search-bar" id="search-bar" />
         </div>
-        <!-- <div class="column-6 search-bar-container">
-          <label for="search-bar"><img src="assets/search.svg" alt="Search" width="30" height="30" /></label>
-          <input type="text" name="search-bar" />
-        </div> -->
+      </div>
+      <!-- <div class="row">
+        <div class="col"></div>
       </div>
       <div class="row">
-        <div class="column"></div>
-      </div>
-      <div class="row">
-        <div class="column">
+        <div class="col">
           <img src="assets/reply.svg" alt="Reply" width="30" height="30" />
           <img src="assets/reply-all.svg" alt="Reply All" width="30" height="30" />
           <img src="assets/trash.svg" alt="Delete Email" width="30" height="30" />
           <img src="assets/archive.svg" alt="Archive Email" width="30" height="30" />
         </div>
       </div>
-    </div>
+    </div> -->
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"

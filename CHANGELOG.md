@@ -10,8 +10,10 @@
   - Updated designs to make sense on the flow
   - Created a flow diagram for the wireframes
   - Created basic files structure
-  - Added boostrap to the HTML
+  - Added bootstrap to the HTML
   - Started the HTML and CSS for the first part of the page
+- 07/30/2025
+  - 11am Styled the toolbox bar for small and medium devices
 
 ## Example:
 
