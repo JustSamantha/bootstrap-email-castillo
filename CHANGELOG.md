@@ -14,6 +14,8 @@
   - Started the HTML and CSS for the first part of the page
 - 07/30/2025
   - 11am Styled the toolbox bar for small and medium devices
+  - Created and styled the email preview section
+  - Updated the email preview section for larger devices
 
 ## Example:
 
