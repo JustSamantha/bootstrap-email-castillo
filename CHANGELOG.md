@@ -16,6 +16,10 @@
   - 11am Styled the toolbox bar for small and medium devices
   - Created and styled the email preview section
   - Updated the email preview section for larger devices
+- 08/01/2025
+  - 6pm Created the HTML structure of the main email area
+  - Styled the main email area
+  - Fixed different issues with responsive design
 
 ## Example:
 

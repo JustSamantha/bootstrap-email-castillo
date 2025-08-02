@@ -55,9 +55,18 @@
 .email-preview-col {
   padding: 0;
   height: 300px;
+  min-width: 440px;
+  width: 100%;
   overflow-y: scroll;
   overflow-x: hidden;
   border-bottom: solid black;
+}
+
+@media screen and (min-width: 940px) {
+  .email-preview-col {
+    max-width: 440px;
+    min-height: 96vh;
+  }
 }
 
 .email-preview {
@@ -104,4 +113,23 @@
 
 .email-container {
   min-width: 500px;
+}
+
+@media screen and (max-width: 939px) {
+  .email-container {
+    border-top: 3px solid black;
+  }
+}
+
+.email-row {
+  padding: 5px;
+}
+
+.email-toolbox-col {
+  text-align: right;
+}
+
+.email-content-col {
+  overflow-y: scroll;
+  max-height: 89vh;
 }
