@@ -20,6 +20,9 @@
   - 6pm Created the HTML structure of the main email area
   - Styled the main email area
   - Fixed different issues with responsive design
+-08/02/2025
+  - 10am Fixed an overflow issue
+
 
 ## Example:
 
