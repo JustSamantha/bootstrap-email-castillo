@@ -1,11 +1,5 @@
-.row,
-.col-1,
-.col-9,
-.container-fluid,
-.col {
-  /* border: 1px solid black; */
-  /* height: 100px; */
-  /* padding: 0px; */
+body {
+  overflow-y: hidden;
 }
 
 .main-toolbox-row {
@@ -113,6 +107,7 @@
 
 .email-container {
   min-width: 500px;
+  max-height: 100vh;
 }
 
 @media screen and (max-width: 939px) {
@@ -131,5 +126,11 @@
 
 .email-content-col {
   overflow-y: scroll;
-  max-height: 89vh;
+  max-height: 61vh;
+}
+
+@media screen and (min-width: 580px) {
+  .email-content-col {
+    max-height: 89vh;
+  }
 }
